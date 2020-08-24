@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cat-wars/static/css/main.a3e8802a.chunk.css",
+    "main.js": "/cat-wars/static/js/main.040c49f8.chunk.js",
+    "main.js.map": "/cat-wars/static/js/main.040c49f8.chunk.js.map",
+    "runtime-main.js": "/cat-wars/static/js/runtime-main.ffa82237.js",
+    "runtime-main.js.map": "/cat-wars/static/js/runtime-main.ffa82237.js.map",
+    "static/js/2.9fc7c5d0.chunk.js": "/cat-wars/static/js/2.9fc7c5d0.chunk.js",
+    "static/js/2.9fc7c5d0.chunk.js.map": "/cat-wars/static/js/2.9fc7c5d0.chunk.js.map",
+    "index.html": "/cat-wars/index.html",
+    "precache-manifest.d7412ba507d770a83581524e5d5b0c7c.js": "/cat-wars/precache-manifest.d7412ba507d770a83581524e5d5b0c7c.js",
+    "service-worker.js": "/cat-wars/service-worker.js",
+    "static/css/main.a3e8802a.chunk.css.map": "/cat-wars/static/css/main.a3e8802a.chunk.css.map",
+    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/cat-wars/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffa82237.js",
+    "static/js/2.9fc7c5d0.chunk.js",
+    "static/css/main.a3e8802a.chunk.css",
+    "static/js/main.040c49f8.chunk.js"
+  ]
+}
